@@ -1,0 +1,43 @@
+{
+  "root": "C:\\Users\\Shravani\\filesystem-analyzer-main\\test_data",
+  "total_files": 4,
+  "total_size_bytes": 74,
+  "total_size_human": "74.00 B",
+  "extensions": {
+    "count_by_extension": {
+      "txt": 3,
+      "py": 1
+    },
+    "size_bytes_by_extension": {
+      "txt": 55,
+      "py": 19
+    }
+  },
+  "largest_files": [
+    {
+      "path": "notes.txt",
+      "size_bytes": 27,
+      "size_human": "27.00 B",
+      "extension": "txt"
+    },
+    {
+      "path": "sample.py",
+      "size_bytes": 19,
+      "size_human": "19.00 B",
+      "extension": "py"
+    },
+    {
+      "path": "copy1.txt",
+      "size_bytes": 14,
+      "size_human": "14.00 B",
+      "extension": "txt"
+    },
+    {
+      "path": "copy2.txt",
+      "size_bytes": 14,
+      "size_human": "14.00 B",
+      "extension": "txt"
+    }
+  ],
+  "duplicates_by_hash": {}
+}
